@@ -1,9 +1,11 @@
 # Hi, I'm Deepak Rathaur 👋
 
 🎓 B.Tech CSE Student at Pranveer Singh Institute of Technology, Kanpur
-💡 Passionate about AI/ML, Computer Vision & Full-Stack Development
+💡 Passionate about AI, Computer Vision & Full-Stack Development
 🚀 Currently building real-world AI-driven systems
+
 ---
+
 ## 🔧 Tech Stack
 
 **Languages:** C, C++, Python
@@ -11,7 +13,9 @@
 **Backend:** Node.js
 **AI/ML:** TensorFlow, OpenCV, MediaPipe, NLP (NLTK, SpaCy)
 **Tools:** Git, GitHub, VS Code, Arduino IDE, Figma
+
 ---
+
 ## 🚀 Projects
 
 ### 🔹 SignBridgeAI (Active)
@@ -37,13 +41,13 @@ Led a team to develop a drone prototype using Arduino Nano and sensors (GPS, gyr
 * 🥇 Rank 1 – Figma Portfolio Competition
 * 🥈 Runner-up – Quantum Cryptography Contest
 * ⭐ 5-Star Coder on HackerRank
-* 💯 Solved 400+ DSA problems (LeetCode & HackerRank)
+* 💯 Solved 300+ DSA problems (LeetCode & HackerRank)
 
 ---
 
 ## 📜 Certifications
 
-* NPTEL – Machine Learning for Engineering and Science Applications
+* NPTEL – Machine Learning for Engineering Applications
 * Google – Machine Learning Crash Course
 * Infosys Springboard – HTML5, Data Science, Python, C/C++
 
