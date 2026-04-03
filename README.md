@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Deepak Rathuar
+🎓 Computer Science Student  
+💡 Interested in AI, Computer Vision & Systems  
+🚀 Currently working on: Sign Language to Speech Project
 
 <!--
 **SojalG/SojalG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
