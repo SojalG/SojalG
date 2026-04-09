@@ -1,7 +1,7 @@
 <h1 align = "center"> Deepak Rathaur </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+Computer+Vision+Enthusiast;Full-Stack+Developer;Building+Real-World+Projects;Always+Learning+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=2C2C2C&center=true&vCenter=true&width=600&lines=AI+%7C+Computer+Vision+Enthusiast;Full-Stack+Developer;Building+Real-World+Projects;Always+Learning+🚀" />
 </p>
 
 ---
@@ -115,6 +115,3 @@
 💼 [LinkedIn](http://www.linkedin.com/in/deepakrathaur123)  
 📧 [rathaurdeepak312@gmail.com](mailto:rathaurdeepak312@gmail.com)
 
----
-
-⭐ *Always open to opportunities, collaborations & innovative projects!* 🚀
