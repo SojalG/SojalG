@@ -1,4 +1,4 @@
-<h1 align = "center">👋 Hi, I'm Deepak Rathaur</h1>
+<h1 align = "center"> Deepak Rathaur </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+%7C+Computer+Vision+Enthusiast;Full-Stack+Developer;Building+Real-World+Projects;Always+Learning+🚀" />
